@@ -7,3 +7,5 @@ A virtual synthesizer using frequency modulation synthesis. It has 8 operators a
 To complile: cl gen_h.c soundFactory.c -link user32.lib Gdi32.lib
 
 The sound processing takes place in the soundfactory.c file, mainly in the soundFactoryProduce() function.
+
+A short demonstration: https://youtu.be/k6hJZuY6YwA
